@@ -1,0 +1,22 @@
+{
+  "name": "meeting-ui",
+  "version": "1.0.0",
+  "description": "这是一个测试项目",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhoushan1/meet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhoushan1/meet/issues"
+  },
+  "homepage": "https://github.com/zhoushan1/meet#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
